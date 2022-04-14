@@ -3,8 +3,6 @@ const fs = require('fs')
 const path = require('path')
 
 const express = require('express');
-const res = require('express/lib/response');
-
 
 const app = express();
 
